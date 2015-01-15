@@ -1,6 +1,6 @@
 # KairosDB Logo
 
-![KairosDB logo](https://raw.githubusercontent.com/lcoulet/kairosdb-logo/master/logo_500-80px.png)
+![KairosDB logo](https://raw.githubusercontent.com/lcoulet/kairosdb-logo/christmas_kairos/logo_500-80px.png)
 
 I already shared this logo on [KairosDB discussion group](https://groups.google.com/forum/#!forum/kairosdb-group) in 2013, I believe it's better to give it to the KairosDB community in a more visible way using GitHub. 
 
